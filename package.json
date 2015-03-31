@@ -1,0 +1,18 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.5",
+    "jade": ">= 0.0.1",
+    "mongojs": ">=0.3.2",
+    "moment": "1.4.0"
+  },
+  "readme": "# Blog example\n\nTo run the example you need node.js and some initalized data into mongodb. The collections are user, post.\n   \n    node app.js\n",
+  "readmeFilename": "README.markdown",
+  "description": "To run the example you need node.js and some initalized data into mongodb. The collections are user, post.",
+  "_id": "application-name@0.0.1",
+  "scripts": {},
+  "_shasum": "072b48a11dcd16e80470cd429b7bbfeb4b770717",
+  "_from": "."
+}
